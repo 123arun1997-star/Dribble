@@ -40,18 +40,17 @@ Publish the website in the LocalHost.
 ## PROGRAM :
 
 ~~~
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Dribbble Clone</title>
 
-    <!-- Bootstrap CDN -->
+    
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body>
 
-<!-- 🔹 Navbar -->
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
     <a class="navbar-brand" href="#">Dribbble</a>
@@ -79,18 +78,18 @@ Publish the website in the LocalHost.
   </div>
 </nav>
 
-<!-- 🔹 Hero Section -->
+
 <div class="container text-center mt-5">
     <h1>Find your next design inspiration</h1>
     <p class="text-muted">Dribbble is show and tell for designers</p>
     <button class="btn btn-danger">Explore</button>
 </div>
 
-<!-- 🔹 Cards Section -->
+
 <div class="container mt-5">
   <div class="row">
 
-    <!-- Card 1 -->
+    
     <div class="col-md-4 mb-4">
       <div class="card">
         <img src="image1.png" class="card-img-top">
@@ -101,7 +100,7 @@ Publish the website in the LocalHost.
       </div>
     </div>
 
-    <!-- Card 2 -->
+   
     <div class="col-md-4 mb-4">
       <div class="card">
         <img src="image2.png" class="card-img-top">
@@ -112,7 +111,7 @@ Publish the website in the LocalHost.
       </div>
     </div>
 
-    <!-- Card 3 -->
+  
     <div class="col-md-4 mb-4">
       <div class="card">
         <img src="image3.png" class="card-img-top">
@@ -126,12 +125,11 @@ Publish the website in the LocalHost.
   </div>
 </div>
 
-<!-- 🔹 Footer -->
+
 <footer class="bg-dark text-white text-center p-3 mt-5">
     Created by Arunachalam V
 </footer>
 
-<!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
@@ -140,7 +138,8 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2026-04-02 092044.png>)
+![Uploading Screenshot (24).png…]()
+
 
 ## RESULT:
 The project for responsive web design in creating a clone of dribble.com is completed successfully.
