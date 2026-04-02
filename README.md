@@ -138,7 +138,8 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![Uploading Screenshot (24).png…]()
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/ee1d977a-371f-4042-97b6-becc6fcc830a" />
+
 
 
 ## RESULT:
